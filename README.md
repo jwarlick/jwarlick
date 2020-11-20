@@ -10,7 +10,7 @@ I currently attend the UCLA Anderson School of Management's Master of Science in
 - A recommendation system project for music streaming 
 
 ### A little more about me:
-- 👬  I identify as L*G*BTQ. (Pronouns: he/him) 
+- 👬  I identify as L**G**BTQ. (Pronouns: he/him) 
 - 🏥  I'm _very_ close to having beaten thyroid cancer</break>
 - 👯  I'm a twin (shout out to my sister Rebecca)</break>
 - 🎼  I still make, work on and write about music in my free time. Ask me about music and/or streaming!
