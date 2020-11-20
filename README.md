@@ -17,4 +17,4 @@ I currently attend the UCLA Anderson School of Management's Master of Science in
 - 🎼 I still make, work on and write about music in my free time. Ask me about music and/or streaming!
 
 ### Thanks for checking out my GitHub page!
-Feel free to email me! [john.warlick.2021@anderson.ucla.edu] 🤓
+Feel free to email me: [john.warlick.2021@anderson.ucla.edu] 🤓
