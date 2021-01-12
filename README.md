@@ -7,7 +7,7 @@ I currently attend the UCLA Anderson School of Management's Master of Science in
 ### Things I'm working on (watch this space!):
 
 - An anonymized version of a data visualization / business intelligence project for industry
-- A recommendation system project for music streaming 
+- A prediction experiment with music streaming data
 
 ### A little more about me:
 - 👬 I identify as L**G**BTQ (Pronouns: he/him) 
