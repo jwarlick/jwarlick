@@ -7,7 +7,7 @@ I currently attend the UCLA Anderson School of Management's Master of Science in
 ### Things I'm working on (watch this space!):
 
 - An anonymized version of a data visualization / business intelligence project for industry
-- A prediction experiment with music streaming data using AutoGluon
+- Two prediction experiments with music streaming data using AutoGluon and more traditional classifiers (one to be posted imminently)
 
 ### A little more about me:
 - 👬 I identify as L**G**BTQ (Pronouns: he/him) 
