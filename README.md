@@ -6,7 +6,7 @@ I currently attend the UCLA Anderson School of Management's Master of Science in
 
 ### Things I'm working on:
 
-- A geolocation project involving AutoML (my first go at a Kaggle challenge!)
+- A geolocation project / Kaggle challenge solution involving AutoML
 - An anonymized version of a data visualization / business intelligence assignment for industry (pending approval)
 
 
