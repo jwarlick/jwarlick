@@ -6,8 +6,9 @@ I currently attend the UCLA Anderson School of Management's Master of Science in
 
 ### Things I'm working on (watch this space!):
 
+- A geolocation project involving AutoML (my first go at a Kaggle challenge!)
 - An anonymized version of a data visualization / business intelligence assignment for industry (pending approval)
-- A continuation of my AutoGluon exploratory project
+
 
 ### A little more about me:
 - 👬 I identify as L**G**BTQ (Pronouns: he/him) 
