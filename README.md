@@ -4,7 +4,7 @@ I'm John Warlick. I'd describe myself as a data scientist with a taste for user 
 
 I currently attend the UCLA Anderson School of Management's Master of Science in Data Analytics program, where I'm in the Class of 2021.
 
-### Things I'm working on (watch this space!):
+### Things I'm working on:
 
 - A geolocation project involving AutoML (my first go at a Kaggle challenge!)
 - An anonymized version of a data visualization / business intelligence assignment for industry (pending approval)
