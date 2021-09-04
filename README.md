@@ -1,6 +1,6 @@
 ### Why hello there! 👋
 
-I'm John Warlick. I'd describe myself as a data scientist with a taste for user analytics, optimization and content analytics, but I enjoy using data to solve problems of any shape. I also like digging into data just for fun, which is a big part of why I've transitioned into this career path after being a creative technician in the music industry.
+I'm John Warlick. I'd describe myself as a data scientist with a taste for content analytics, user analytics and optimization,  but I enjoy using data to solve problems of any shape. I also like digging into data just for fun, which is a big part of why I've transitioned into this career path after being a creative technician in the music industry.
 
 I currently attend the UCLA Anderson School of Management's Master of Science in Data Analytics program, where I'm in the Class of 2021. I also currently work as a Data Science Intern at NBCUniversal.
 
