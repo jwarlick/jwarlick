@@ -10,7 +10,7 @@ I'm about to update this page with a few projects from the past 9 or so months, 
 - 👬 I identify as L**G**BTQ (Pronouns: he/him) 
 - 🚀 My third obsession (after data and media) is space, which might explain my profile picture
 - 👯 I'm a twin (shout out to my sister Rebecca)
-- 🏥 I'm a recent cancer survivor
+- 🏥 I'm a recent cancer survivor (shout out to the Cedars-Sinai medical community)
 - 🎼 I still make, work on and write about music in my free time. Ask me about music and/or streaming!
 
 ### Thanks for checking out my GitHub page!
