@@ -4,7 +4,7 @@ I'm John Warlick. I'd describe myself as a data scientist with a taste for custo
 
 As of January 2022, I've just graduated from the UCLA Anderson School of Management's Master of Science in Data Analytics program with distinction. Big milestone! I also recently finished a 6-month Data Science internship at NBCUniversal.
 
-I'm about to update this page with a few projects from the past 9 or so months, so if you're reading this sentence, check back soon!
+I'm in the process of uploading projects from the past year, so if you're reading this sentence, check back soon!
 
 ### A little more about me:
 - 👬 I identify as L**G**BTQ (Pronouns: he/him) 
