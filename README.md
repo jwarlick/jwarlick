@@ -33,6 +33,6 @@ Here are links to a few data science projects I have hosted here and elsewhere:
 - Also involves Fourier seasonality estimation and visualization with ggplot2.
 
 [Spotify Chart Research: Scraping, Visualization & Bootstrapping](https://github.com/jwarlick/Spotify-Chart-Analysis/blob/main/Spotify_Scraping_DataExploration_Visualization_Bootstrapping.ipynb)
-- Python/SQL project using Requests / BeautifulSoup for data mining. Bootstrapping used to prove weekly streaming hypothesis.
+- Python/SQL project using Requests / BeautifulSoup for data mining. Bootstrapping used to test weekly streaming hypothesis.
 - Uses TKCalendar and Matplotlib for visualization tools, and SQLAlchemy for database/schema engineering within Python.
 
