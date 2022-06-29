@@ -17,7 +17,7 @@ Feel free to email me: [johnwarlick@gmail.com] 🤓
 ---
 
 ### Data Science Projects
-For ease of use, here are links to some data science projects I have hosted here and elsewhere:
+Here are links to a few data science projects I have hosted here and elsewhere:
 
 [AutoGluon Exploration and Comparison](https://github.com/jwarlick/AutoGluon-Exploration-Spotify/blob/main/AutoGluon_Exploration_Spotify_v1-5.ipynb)
 - Short analysis comparing efficacy of AutoML pipeline AutoGluon with other regressors for a regression task.
