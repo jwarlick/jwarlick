@@ -2,7 +2,7 @@
 
 I'm John Warlick. I'd describe myself as a data scientist and analyst with a taste for customer analytics and product analytics, but I enjoy using data to solve problems of any shape. I also like digging into data just for fun, which is a big part of why I've transitioned into this career path after being a creative technician in the music industry.
 
-Most of what I have on here are old student projects, but check back periodically-- one of these days I might upload something interesting!
+All I have on here are old student projects, but check back periodically-- one of these days I might upload something interesting!
 
 ### A little more about me:
 - 👬 I identify as L**G**BTQ (Pronouns: he/him) 
